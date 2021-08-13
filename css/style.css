@@ -1,0 +1,6 @@
+.navbar-nav > .active {
+    font-weight: 700;
+}
+.bg-custom {
+    background: lightcyan;
+}
