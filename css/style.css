@@ -8,20 +8,16 @@ body {
 .bg-custom {
     background: lightcyan;
 }
-/* * {
-    border: 1px dotted red;
-} */
 .profile-img {
     position: relative;
     width: 300px;
     height: 300px;
-
     z-index: -1;
 }
 .profile-img::before {
     content: "";
     background: crimson;
-    opacity: 0.8;
+    opacity: 0.9;
     width: 100px;
     height: 100px;
     border-radius: 50%;
