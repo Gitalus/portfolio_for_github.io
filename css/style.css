@@ -2,9 +2,9 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-* {
+/* * {
     border: 1px dotted red;
-}
+} */
 .navbar-nav > .active {
     font-weight: 700;
 }
